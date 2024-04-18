@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tech Hero</title>
+<link rel="stylesheet" href="stylepage.css">
+</head>
+<body>
+  <li><h4>Who do I see as a tech "Hero?"</h4>
+ <p>Marc Andreessen has been quite instrumental in shaping how the world operates with computers. Hailing from a small town in Iowa, he brought the power of the internet to the masses through the first viable web browser, igniting our desire for instant information.</p>   
+ <a href="https://www.britannica.com/biography/Marc-Andreessen" target="_blank">Read Marc's Biography</a>
+<p><a href=".html">Project 2 Home Page</a></p>
+</body>
+<table>
+  <tr>
+    <td><a href="aboutme.html">About Me</a></td>
+    <td><a href="resources.html">Resources</a></td>
+    <td><a href="techhero.html">Techhero</a></td>
+  </tr>
+</table>
+</p>
+<p>Project 2 Requirement:  A welcome or "splash" page, where visitors get first impressions of your work. </p>
+<p>Instructions:  Personalize your home page for Project 2.  Feel free to add images and text.  Explore HTML and CSS to code your homepage.
+</body>
+</html>   
