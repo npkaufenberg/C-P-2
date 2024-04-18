@@ -1,26 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Learning Resources</title>
-<link rel="stylesheet" href="stylepage.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Resources</title>
+    <link rel="stylesheet" href="stylepage.css">
 </head>
 <body>
-<h1>What is implicit bias and why is it important?</h1>
-<p>Implicit bias refers to the unconscious attitudes, stereotypes, and associations that influence our perceptions, actions, and decisions, often without our awareness. These biases contribute to societal inequities as they can lead to disparate treatment of people based on their race, gender, age, or other characteristics.</p>
-<p>Here is a quote from WWF's website:</p>
-<blockquote cite="https://diversity.ncsu.edu/news/2019/09/13/why-we-must-understand-and-address-implicit-bias-2/">
-  Implicit biases simultaneously advantage certain groups while disadvantaging others. These biases can be seen in university admissions, job recruiting and selection, and even in the classroom. These biases greatly affect diversity in a number of ways.
-</blockquote>
-
-<h2>What is implicit bias and why does it matter?
-  <a href="https://www.continu.com/blog/implicit-bias-training" target="_blank"><i>Click Here</i></a>
-</h2>
-<h3>What is intersectionality and why is it important?</h3>
-<p>Intersectionality is a framework for understanding how individual experiences of privilege and marginalization are created by overlapping social identies (such as race, gender, sexuality, and disability). This offers a more nuanced and effective way of addressing complex social inequities.</p>
-<h3>Diving Deeper - Recommended Readings & Resources</h3>
-
-<br></br>
-<h4><a href="index.htm">....</a></h4>
+    <header>
+        <h1>What is Implicit Bias and Why Is It Important?</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="https://www.continu.com/blog/implicit-bias-training" target="_blank">Learn more about implicit bias</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Understanding Intersectionality</h2>
+            <p>Intersectionality considers how various social identities intersect to shape individual experiences.</p>
+        </section>
+        <section>
+            <h3>Recommended Readings & Resources</h3>
+            <p>Explore further resources on this topic.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Learning Resources</p>
+    </footer>
 </body>
 </html>
